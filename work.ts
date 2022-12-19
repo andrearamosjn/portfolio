@@ -16,9 +16,9 @@ export default [
                     "/work/machu-picchu-image-2.png",
                     "/work/machu-picchu-image-3.png",
                 ],
-                siteMap: "We use the sitemap to identify a map of the various pages of the website. The purpose of the UX sitemap is to allow us to visualize how individual web pages or sections of the site relate to each other.",
+                siteMap: "We use the sitemap to identify a map of the various pages of the website. The purpose of the UX sitemap is to allow us to visualize how individual web pages or sections of the site relate to each other. You can see the sitemap to click on the image.",
                 siteMapImage: "/work/machu-picchu-sitemap.png",
-                wireframes: "We use wireframes to be able to represent a design in a simple way and to be able to do the first usability tests.",
+                wireframes: "We use wireframes to be able to represent a design in a simple way and to be able to do the first usability tests. You can see the wireframes to click on the image (desktop and mobile).",
                 wireframesImages: [
                     "/work/machu-picchu-wireframe-1.jpg",
                     "/work/machu-picchu-wireframe-2.jpg",
@@ -26,7 +26,7 @@ export default [
                 ],
                 ui: "Typography, colors, icons, ilustrations...",
                 uiImage: "/work/machu-picchu-ui-image.png",
-                proto: "Final design with the changes obtained from the usability tests of the wireframes. In this part, we have also carried out usability tests and finally we have made the final prototype.",
+                proto: "Final design with the changes obtained from the usability tests of the wireframes. In this part, we have also carried out usability tests and finally we have made the final prototype. You can see the prototype to click on the image (desktop and mobile).",
                 protoImage: "/work/machu-picchu-prototype.png"
             }, {
                 name: "Respira",
@@ -41,9 +41,9 @@ export default [
                     "/work/machu-picchu-image-2.png",
                     "/work/machu-picchu-image-3.png",
                 ],
-                siteMap: "We use the sitemap to identify a map of the various pages of the website. The purpose of the UX sitemap is to allow us to visualize how individual web pages or sections of the site relate to each other.",
+                siteMap: "We use the sitemap to identify a map of the various pages of the website. The purpose of the UX sitemap is to allow us to visualize how individual web pages or sections of the site relate to each other. You can see the sitemap to click on the image.",
                 siteMapImage: "/work/machu-picchu-sitemap.png",
-                wireframes: "We use wireframes to be able to represent a design in a simple way and to be able to do the first usability tests.",
+                wireframes: "We use wireframes to be able to represent a design in a simple way and to be able to do the first usability tests. You can see the wireframes to click on the image (desktop and mobile).",
                 wireframesImages: [
                     "/work/machu-picchu-wireframe-1.jpg",
                     "/work/machu-picchu-wireframe-2.jpg",
@@ -51,7 +51,7 @@ export default [
                 ],
                 ui: "Typography, colors, icons, ilustrations...",
                 uiImage: "/work/machu-picchu-ui-image.png",
-                proto: "Final design with the changes obtained from the usability tests of the wireframes. In this part, we have also carried out usability tests and finally we have made the final prototype.",
+                proto: "Final design with the changes obtained from the usability tests of the wireframes. In this part, we have also carried out usability tests and finally we have made the final prototype. You can see the prototype to click on the image (desktop and mobile).",
                 protoImage: "/work/machu-picchu-prototype.png"
             }, {
                 name: "Women in tech",
@@ -66,9 +66,9 @@ export default [
                     "/work/machu-picchu-image-2.png",
                     "/work/machu-picchu-image-3.png",
                 ],
-                siteMap: "We use the sitemap to identify a map of the various pages of the website. The purpose of the UX sitemap is to allow us to visualize how individual web pages or sections of the site relate to each other.",
+                siteMap: "We use the sitemap to identify a map of the various pages of the website. The purpose of the UX sitemap is to allow us to visualize how individual web pages or sections of the site relate to each other. You can see the sitemap to click on the image.",
                 siteMapImage: "/work/machu-picchu-sitemap.png",
-                wireframes: "We use wireframes to be able to represent a design in a simple way and to be able to do the first usability tests.",
+                wireframes: "We use wireframes to be able to represent a design in a simple way and to be able to do the first usability tests. You can see the wireframes to click on the image (desktop and mobile).",
                 wireframesImages: [
                     "/work/machu-picchu-wireframe-1.jpg",
                     "/work/machu-picchu-wireframe-2.jpg",
@@ -76,7 +76,7 @@ export default [
                 ],
                 ui: "Typography, colors, icons, ilustrations...",
                 uiImage: "/work/machu-picchu-ui-image.png",
-                proto: "Final design with the changes obtained from the usability tests of the wireframes. In this part, we have also carried out usability tests and finally we have made the final prototype.",
+                proto: "Final design with the changes obtained from the usability tests of the wireframes. In this part, we have also carried out usability tests and finally we have made the final prototype. You can see the prototype to click on the image (desktop and mobile).",
                 protoImage: "/work/machu-picchu-prototype.png"
             },
         ]
@@ -98,18 +98,21 @@ export default [
                     "/work/food-for-joe-image-2.png",
                     "/work/food-for-joe-image-3.png",
                 ],
-                siteMap: "We use the sitemap to identify a map of the various pages of the website. The purpose of the UX sitemap is to allow us to visualize how individual web pages or sections of the site relate to each other.",
+                siteMapURL: "https://www.figma.com/file/iAKWg29fjT7tXfgtIfZGzJ/Sitemap?node-id=0%3A1&t=V1SvVGe1lkKmWtOA-1",
+                siteMap: "We use the sitemap to identify a map of the various pages of the website. The purpose of the UX sitemap is to allow us to visualize how individual web pages or sections of the site relate to each other. You can see the sitemap to click on the image.",
                 siteMapImage: "/work/food-for-joe-sitemap.png",
-                wireframes: "We use wireframes to be able to represent a design in a simple way and to be able to do the first usability tests.",
+                wireframes: "We use wireframes to be able to represent a design in a simple way and to be able to do the first usability tests. You can see the wireframes to click on the image (desktop and mobile).",
                 wireframesImages: [
                     "/work/food-for-joe-wireframe-1.png",
                     "/work/food-for-joe-wireframe-2.png",
                     "/work/food-for-joe-wireframe-3.png"
                 ],
+                wireframesURL: "https://www.figma.com/file/Vn7BNCPxy6RyULJCRiBjzV/Wireframes?node-id=0%3A1&t=5LtOD59CfUxwOChZ-1",
                 ui: "Typography, colors, icons, ilustrations...",
                 uiImage: "/work/food-for-joe-ui-image.jpg",
-                proto: "Final design with the changes obtained from the usability tests of the wireframes. In this part, we have also carried out usability tests and finally we have made the final prototype.",
-                protoImage: "/work/food-for-joe-prototype.png"
+                proto: "Final design with the changes obtained from the usability tests of the wireframes. In this part, we have also carried out usability tests and finally we have made the final prototype. You can see the prototype to click on the image (desktop and mobile).",
+                protoImage: "/work/food-for-joe-prototype.png",
+                protoURL: "https://www.figma.com/file/pjgMrJshG4zClwFVNPpJUN/Design?node-id=0%3A1&t=9VWYJw9TrVvzPYAB-1"
             }, {
                 id: "machu-picchu",
                 name: "Machu Picchu",
@@ -123,18 +126,21 @@ export default [
                     "/work/machu-picchu-image-2.png",
                     "/work/machu-picchu-image-3.png",
                 ],
-                siteMap: "We use the sitemap to identify a map of the various pages of the website. The purpose of the UX sitemap is to allow us to visualize how individual web pages or sections of the site relate to each other.",
+                siteMapURL: "https://www.figma.com/file/KbiPg1urKSli1IzqCn3xYW/Sitemap?node-id=0%3A1&t=ASsRa9PbFmg4ISs5-1",
+                siteMap: "We use the sitemap to identify a map of the various pages of the website. The purpose of the UX sitemap is to allow us to visualize how individual web pages or sections of the site relate to each other. You can see the sitemap to click on the image.",
                 siteMapImage: "/work/machu-picchu-sitemap.png",
-                wireframes: "We use wireframes to be able to represent a design in a simple way and to be able to do the first usability tests.",
+                wireframes: "We use wireframes to be able to represent a design in a simple way and to be able to do the first usability tests. You can see the wireframes to click on the image (desktop and mobile).",
                 wireframesImages: [
                     "/work/machu-picchu-wireframe-1.jpg",
                     "/work/machu-picchu-wireframe-2.jpg",
                     "/work/machu-picchu-wireframe-3.jpg"
                 ],
+                wireframesURL: "https://www.figma.com/file/Gr60GAOAc3bvUSQDu6fqkC/Wireframes?node-id=0%3A1&t=iNzREmwsXp4flLm8-1",
                 ui: "Typography, colors, icons, ilustrations...",
                 uiImage: "/work/machu-picchu-ui-image.png",
-                proto: "Final design with the changes obtained from the usability tests of the wireframes. In this part, we have also carried out usability tests and finally we have made the final prototype.",
-                protoImage: "/work/machu-picchu-prototype.png"
+                proto: "Final design with the changes obtained from the usability tests of the wireframes. In this part, we have also carried out usability tests and finally we have made the final prototype. You can see the prototype to click on the image (desktop and mobile).",
+                protoImage: "/work/machu-picchu-prototype.png",
+                protoURL: "https://www.figma.com/file/elWjueNY43oXxrxuJXA2Ai/Design?node-id=0%3A1&t=VjObhv5MTpssoX0V-1"
             }, {
                 id: "qara",
                 name: "Qara",
@@ -148,20 +154,22 @@ export default [
                     "/work/qara-image-2.png",
                     "/work/qara-image-3.png",
                 ],
-                wireframes: "We use wireframes to be able to represent a design in a simple way and to be able to do the first usability tests.",
+                wireframes: "We use wireframes to be able to represent a design in a simple way and to be able to do the first usability tests. You can see the wireframes to click on the image (desktop and mobile).",
                 wireframesImages: [
                     "/work/qara-wireframe-1.png",
                     "/work/qara-wireframe-2.png",
                     "/work/qara-wireframe-3.png"
                 ],
+                wireframesURL: "https://www.figma.com/file/lJglt6cB64lhD4EAZNUNZC/Wireframes?node-id=0%3A1&t=MXKD8pSabfkPaJSe-1",
                 ui: "Typography, colors, icons, ilustrations...",
                 uiImage: "/work/qara-ui-image.jpg",
-                proto: "Final design with the changes obtained from the usability tests of the wireframes. In this part, we have also carried out usability tests and finally we have made the final prototype.",
-                protoImage: "/work/qara-prototype.png"
+                proto: "Final design with the changes obtained from the usability tests of the wireframes. In this part, we have also carried out usability tests and finally we have made the final prototype. You can see the prototype to click on the image (desktop and mobile).",
+                protoImage: "/work/qara-prototype.png",
+                protoURL: "https://www.figma.com/file/g6e2hjapTc5B0lmNXdvjej/Design?node-id=0%3A1&t=rFUlsjETMYwUQNMd-1"
             },  {
                 id: "karibou",
                 name: "Karibou",
-                hero: "/works/karibou.png",
+                hero: "/work/karibou.png",
                 description: "Rediseño de los productos de packaging sostenible y diseño digital, utilizando solamente energía de fuentes renovables.",
                 logo: "/work/karibou-logo.png",
                 introductionHeaderImage: "/work/karibou-intro-image-header.png",
@@ -171,18 +179,21 @@ export default [
                     "/work/karibou-image-2.png",
                     "/work/karibou-image-3.png",
                 ],
-                siteMap: "We use the sitemap to identify a map of the various pages of the website. The purpose of the UX sitemap is to allow us to visualize how individual web pages or sections of the site relate to each other.",
+                siteMap: "We use the sitemap to identify a map of the various pages of the website. The purpose of the UX sitemap is to allow us to visualize how individual web pages or sections of the site relate to each other. You can see the sitemap to click on the image.",
                 siteMapImage: "/work/karibou-sitemap.png",
-                wireframes: "We use wireframes to be able to represent a design in a simple way and to be able to do the first usability tests.",
+                siteMapURL: "https://www.figma.com/file/G5DwjohIV4AV9MQymdS8us/Sitemap?node-id=0%3A1&t=SEQZuajeVjenRSzP-1",
+                wireframes: "We use wireframes to be able to represent a design in a simple way and to be able to do the first usability tests. You can see the wireframes to click on the image (desktop and mobile).",
                 wireframesImages: [
                     "/work/karibou-wireframe-1.png",
                     "/work/karibou-wireframe-2.png",
                     "/work/karibou-wireframe-3.png"
                 ],
+                wireframesURL: "https://www.figma.com/file/TSfBag0zZ48KALYvGnrLJz/Wireframes?node-id=0%3A1&t=cD1YgX9vTpjBcMdn-1",
                 ui: "Typography, colors, icons, ilustrations...",
                 uiImage: "/work/karibou-ui-image.jpg",
-                proto: "Final design with the changes obtained from the usability tests of the wireframes. In this part, we have also carried out usability tests and finally we have made the final prototype.",
-                protoImage: "/work/karibou-prototype.png"
+                proto: "Final design with the changes obtained from the usability tests of the wireframes. In this part, we have also carried out usability tests and finally we have made the final prototype. You can see the prototype to click on the image (desktop and mobile).",
+                protoImage: "/work/karibou-prototype.png",
+                protoURL: "https://www.figma.com/file/wSs9POcIsPqcUGMAvyiVA8/Design?node-id=0%3A1&t=iizePW75RXjKk8Yb-1"
             },  {
                 id: "mSchools",
                 name: "mSchools",
@@ -196,21 +207,21 @@ export default [
                     "/work/mschools-image-2.png",
                     "/work/mschools-image-3.png",
                 ],
-                siteMap: "We use the sitemap to identify a map of the various pages of the website. The purpose of the UX sitemap is to allow us to visualize how individual web pages or sections of the site relate to each other.",
-                siteMapImage: "/work/mschools-sitemap.png",
-                siteMapURL: "https://google.com",
-                wireframes: "We use wireframes to be able to represent a design in a simple way and to be able to do the first usability tests.",
+                siteMap: "We use the sitemap to identify a map of the various pages of the website. The purpose of the UX sitemap is to allow us to visualize how individual web pages or sections of the site relate to each other. You can see the sitemap to click on the image.",
+                siteMapImage: "/work/mschools-sitemap1.png",
+                siteMapURL: "https://www.figma.com/file/GUQe4woYcq00pJKCNSjinK/Sitemap?node-id=0%3A1&t=kwypIanuIKH4plX7-1",
+                wireframes: "We use wireframes to be able to represent a design in a simple way and to be able to do the first usability tests. You can see the wireframes to click on the image (desktop and mobile).",
                 wireframesImages: [
                     "/work/mschools-wireframe-1.jpg",
                     "/work/mschools-wireframe-2.jpg",
                     "/work/mschools-wireframe-3.jpg"
                 ],
-                wireframesURL: "https://google.com",
+                wireframesURL: "https://www.figma.com/file/96ftG06kqMq6k8R6SI3RWd/Wireframes?node-id=0%3A1&t=nBcBDBuNq6IL6OY7-1",
                 ui: "Typography, colors, icons, ilustrations...",
-                uiImage: "/work/machu-picchu-ui-image.png",
-                proto: "Final design with the changes obtained from the usability tests of the wireframes. In this part, we have also carried out usability tests and finally we have made the final prototype.",
-                protoImage: "/work/machu-picchu-prototype.png",
-                protoURL: "https://google.com"
+                uiImage: "/work/mschools-ui-image.png",
+                proto: "Final design with the changes obtained from the usability tests of the wireframes. In this part, we have also carried out usability tests and finally we have made the final prototype. You can see the prototype to click on the image (desktop and mobile).",
+                protoImage: "/work/mschools-prototype.png",
+                protoURL: "https://www.figma.com/file/UDoIL7pwALZoBtKSrrNLR8/Webside-design?node-id=0%3A1&t=gKaGx2p30mcxP7a9-1"
             },
         ]
     },
