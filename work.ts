@@ -6,15 +6,78 @@ export default [
             {
                 name: "Hidden gems",
                 hero: "/work/hiddenGems.png",
-                description: "Aplicación móvil que te ayuda a planificar tu viaje y te permite encontrar lugares nuevos."
+                description: "Aplicación móvil que te ayuda a planificar tu viaje y te permite encontrar lugares nuevos.",
+                description: "Bebidas energéticas con sabor orgánico, cafeína natural y sin conservantes.",
+                logo: "/work/machu-picchu-logo.png",
+                introductionHeaderImage: "/work/machu-picchu-intro-image-header.jpg",
+                introduction: "Machu Picchu was born from former AmBev CEO Bernardo Paiva’s passion for spreading the joys of living outdoors to the fullest. That meant creating a product committed to sustainability, organic ingredients and giving back to the community. Our challenge was to build a lovebrand, far away from the typical brand codes of the category: masculinity, aggression, partying, etc All these stereotypes have been there for 20-30 years. Meanwhile, society’s values and social priorities have thankfully evolved. We are partnering with the passionate Machu Picchu team to build the brand strategy, brand design, packaging and digital ecosystem. A brand all about feeling good and doing good.",
+                images: [
+                    "/work/machu-picchu-image-1.png",
+                    "/work/machu-picchu-image-2.png",
+                    "/work/machu-picchu-image-3.png",
+                ],
+                siteMap: "We use the sitemap to identify a map of the various pages of the website. The purpose of the UX sitemap is to allow us to visualize how individual web pages or sections of the site relate to each other.",
+                siteMapImage: "/work/machu-picchu-sitemap.png",
+                wireframes: "We use wireframes to be able to represent a design in a simple way and to be able to do the first usability tests.",
+                wireframesImages: [
+                    "/work/machu-picchu-wireframe-1.jpg",
+                    "/work/machu-picchu-wireframe-2.jpg",
+                    "/work/machu-picchu-wireframe-3.jpg"
+                ],
+                ui: "Typography, colors, icons, ilustrations...",
+                uiImage: "/work/machu-picchu-ui-image.png",
+                proto: "Final design with the changes obtained from the usability tests of the wireframes. In this part, we have also carried out usability tests and finally we have made the final prototype.",
+                protoImage: "/work/machu-picchu-prototype.png"
             }, {
                 name: "Respira",
                 hero: "/work/respira.png",
-                description: "Aplicación móvil para ayudar a aquellas personas que sufren ataques de ansiedad o ataques de pánico."
+                description: "Aplicación móvil para ayudar a aquellas personas que sufren ataques de ansiedad o ataques de pánico.",
+                description: "Bebidas energéticas con sabor orgánico, cafeína natural y sin conservantes.",
+                logo: "/work/machu-picchu-logo.png",
+                introductionHeaderImage: "/work/machu-picchu-intro-image-header.jpg",
+                introduction: "Machu Picchu was born from former AmBev CEO Bernardo Paiva’s passion for spreading the joys of living outdoors to the fullest. That meant creating a product committed to sustainability, organic ingredients and giving back to the community. Our challenge was to build a lovebrand, far away from the typical brand codes of the category: masculinity, aggression, partying, etc All these stereotypes have been there for 20-30 years. Meanwhile, society’s values and social priorities have thankfully evolved. We are partnering with the passionate Machu Picchu team to build the brand strategy, brand design, packaging and digital ecosystem. A brand all about feeling good and doing good.",
+                images: [
+                    "/work/machu-picchu-image-1.png",
+                    "/work/machu-picchu-image-2.png",
+                    "/work/machu-picchu-image-3.png",
+                ],
+                siteMap: "We use the sitemap to identify a map of the various pages of the website. The purpose of the UX sitemap is to allow us to visualize how individual web pages or sections of the site relate to each other.",
+                siteMapImage: "/work/machu-picchu-sitemap.png",
+                wireframes: "We use wireframes to be able to represent a design in a simple way and to be able to do the first usability tests.",
+                wireframesImages: [
+                    "/work/machu-picchu-wireframe-1.jpg",
+                    "/work/machu-picchu-wireframe-2.jpg",
+                    "/work/machu-picchu-wireframe-3.jpg"
+                ],
+                ui: "Typography, colors, icons, ilustrations...",
+                uiImage: "/work/machu-picchu-ui-image.png",
+                proto: "Final design with the changes obtained from the usability tests of the wireframes. In this part, we have also carried out usability tests and finally we have made the final prototype.",
+                protoImage: "/work/machu-picchu-prototype.png"
             }, {
                 name: "Women in tech",
                 hero: "/work/womenInTech.png",
-                description: "Web para informar sobre la situación de la mujer en la tecnología."
+                description: "Web para informar sobre la situación de la mujer en la tecnología.",
+                description: "Bebidas energéticas con sabor orgánico, cafeína natural y sin conservantes.",
+                logo: "/work/machu-picchu-logo.png",
+                introductionHeaderImage: "/work/machu-picchu-intro-image-header.jpg",
+                introduction: "Machu Picchu was born from former AmBev CEO Bernardo Paiva’s passion for spreading the joys of living outdoors to the fullest. That meant creating a product committed to sustainability, organic ingredients and giving back to the community. Our challenge was to build a lovebrand, far away from the typical brand codes of the category: masculinity, aggression, partying, etc All these stereotypes have been there for 20-30 years. Meanwhile, society’s values and social priorities have thankfully evolved. We are partnering with the passionate Machu Picchu team to build the brand strategy, brand design, packaging and digital ecosystem. A brand all about feeling good and doing good.",
+                images: [
+                    "/work/machu-picchu-image-1.png",
+                    "/work/machu-picchu-image-2.png",
+                    "/work/machu-picchu-image-3.png",
+                ],
+                siteMap: "We use the sitemap to identify a map of the various pages of the website. The purpose of the UX sitemap is to allow us to visualize how individual web pages or sections of the site relate to each other.",
+                siteMapImage: "/work/machu-picchu-sitemap.png",
+                wireframes: "We use wireframes to be able to represent a design in a simple way and to be able to do the first usability tests.",
+                wireframesImages: [
+                    "/work/machu-picchu-wireframe-1.jpg",
+                    "/work/machu-picchu-wireframe-2.jpg",
+                    "/work/machu-picchu-wireframe-3.jpg"
+                ],
+                ui: "Typography, colors, icons, ilustrations...",
+                uiImage: "/work/machu-picchu-ui-image.png",
+                proto: "Final design with the changes obtained from the usability tests of the wireframes. In this part, we have also carried out usability tests and finally we have made the final prototype.",
+                protoImage: "/work/machu-picchu-prototype.png"
             },
         ]
     },
@@ -121,8 +184,8 @@ export default [
                 proto: "Final design with the changes obtained from the usability tests of the wireframes. In this part, we have also carried out usability tests and finally we have made the final prototype.",
                 protoImage: "/work/karibou-prototype.png"
             },  {
-                id: "mShools",
-                name: "mShools",
+                id: "mSchools",
+                name: "mSchools",
                 hero: "/work/mschools.png",
                 description: "Comunidad global de docentes, investigadores y legisladores comprometidos con impulsar el cambio en la educación.",
                 logo: "/work/mschools-logo.png",
@@ -135,16 +198,19 @@ export default [
                 ],
                 siteMap: "We use the sitemap to identify a map of the various pages of the website. The purpose of the UX sitemap is to allow us to visualize how individual web pages or sections of the site relate to each other.",
                 siteMapImage: "/work/mschools-sitemap.png",
+                siteMapURL: "https://google.com",
                 wireframes: "We use wireframes to be able to represent a design in a simple way and to be able to do the first usability tests.",
                 wireframesImages: [
                     "/work/mschools-wireframe-1.jpg",
                     "/work/mschools-wireframe-2.jpg",
                     "/work/mschools-wireframe-3.jpg"
                 ],
+                wireframesURL: "https://google.com",
                 ui: "Typography, colors, icons, ilustrations...",
                 uiImage: "/work/machu-picchu-ui-image.png",
                 proto: "Final design with the changes obtained from the usability tests of the wireframes. In this part, we have also carried out usability tests and finally we have made the final prototype.",
-                protoImage: "/work/machu-picchu-prototype.png"
+                protoImage: "/work/machu-picchu-prototype.png",
+                protoURL: "https://google.com"
             },
         ]
     },
