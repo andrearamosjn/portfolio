@@ -31,17 +31,21 @@ export default function Project({ params }: Props) {
                 <div className="grid grid-cols-2 gap-5 mt-16 sm:w-[75em] sm:mx-auto">
                     {project.images?.map(im => <img className="col-span-1 [&:nth-child(3)]:col-span-2 w-fill" src={im} />)}
                 </div>
+                {project.sitemap && <>
                 <h1 className="mt-16 uppercase font-medium text-black opacity-70 text-base">Site map</h1>
                 <desc className="mt-4 leading-7 font-normal text-2xl max-w-2xl inline-block">{project.siteMap}</desc>
                 <img className="mx-auto mt-20" src={project.siteMapImage} />
+                </>}
             </div>
-            <div className="px-16 py-20 bg-[#ffffff]">
-                <h1 className="uppercase font-medium text-black opacity-70 text-base">Wireframes</h1>
-                <desc className="mt-4 leading-7 font-normal text-2xl max-w-2xl inline-block">{project.wireframes}</desc>
-                <div className="grid grid-flow-col place-content-center auto-cols-max gap-5 mt-16">
-                    {project.wireframesImages?.map(im => <img className="col-span-1 w-fit" src={im} />)}
+            {project.wireframes && (
+                <div className="px-16 py-20 bg-[#ffffff]">
+                    <h1 className="uppercase font-medium text-black opacity-70 text-base">Wireframes</h1>
+                    <desc className="mt-4 leading-7 font-normal text-2xl max-w-2xl inline-block">{project.wireframes}</desc>
+                    <div className="grid grid-flow-col place-content-center auto-cols-max gap-5 mt-16">
+                        {project.wireframesImages?.map(im => <img className="col-span-1 w-fit" src={im} />)}
+                    </div>
                 </div>
-            </div>
+            )}
             <div className="py-20 bg-[#e5e5e5]">
                 <h1 className="px-16 uppercase font-medium text-black opacity-70 text-base">UI</h1>
                 <desc className="px-16 mt-4 leading-7 font-normal text-2xl max-w-2xl inline-block">{project.ui}</desc>
