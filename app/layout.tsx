@@ -2,7 +2,7 @@ import { PropsWithChildren } from "react";
 import './globals.css';
 
 const links = [
-  { link: "#me", label: "Me" },
+  { link: "/me", label: "Me" },
   { link: "/work", label: "Work" },
 ]
 

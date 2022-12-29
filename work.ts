@@ -6,11 +6,10 @@ export default [
             {
                 name: "Hidden gems",
                 hero: "/work/hiddenGems.png",
-                description: "Aplicación móvil que te ayuda a planificar tu viaje y te permite encontrar lugares nuevos.",
-                description: "Bebidas energéticas con sabor orgánico, cafeína natural y sin conservantes.",
-                logo: "/work/machu-picchu-logo.png",
+                description: "Mobile application that helps you plan your trip and allows you to find new places.",
+                logo: "/work/hiddengems-logo.png",
                 introductionHeaderImage: "/work/machu-picchu-intro-image-header.jpg",
-                introduction: "Machu Picchu was born from former AmBev CEO Bernardo Paiva’s passion for spreading the joys of living outdoors to the fullest. That meant creating a product committed to sustainability, organic ingredients and giving back to the community. Our challenge was to build a lovebrand, far away from the typical brand codes of the category: masculinity, aggression, partying, etc All these stereotypes have been there for 20-30 years. Meanwhile, society’s values and social priorities have thankfully evolved. We are partnering with the passionate Machu Picchu team to build the brand strategy, brand design, packaging and digital ecosystem. A brand all about feeling good and doing good.",
+                introduction: "Hidden gems is an app for those people who love to travel and discover new places. We found two main problems. Users waste a lot of time planning the trip and have difficulty finding new or not-so-touristy sites.",
                 images: [
                     "/work/machu-picchu-image-1.png",
                     "/work/machu-picchu-image-2.png",
@@ -31,8 +30,7 @@ export default [
             }, {
                 name: "Respira",
                 hero: "/work/respira.png",
-                description: "Aplicación móvil para ayudar a aquellas personas que sufren ataques de ansiedad o ataques de pánico.",
-                description: "Bebidas energéticas con sabor orgánico, cafeína natural y sin conservantes.",
+                description: "Mobile application to help those who suffer anxiety attacks or panic attacks.",
                 logo: "/work/machu-picchu-logo.png",
                 introductionHeaderImage: "/work/machu-picchu-intro-image-header.jpg",
                 introduction: "Machu Picchu was born from former AmBev CEO Bernardo Paiva’s passion for spreading the joys of living outdoors to the fullest. That meant creating a product committed to sustainability, organic ingredients and giving back to the community. Our challenge was to build a lovebrand, far away from the typical brand codes of the category: masculinity, aggression, partying, etc All these stereotypes have been there for 20-30 years. Meanwhile, society’s values and social priorities have thankfully evolved. We are partnering with the passionate Machu Picchu team to build the brand strategy, brand design, packaging and digital ecosystem. A brand all about feeling good and doing good.",
@@ -56,8 +54,7 @@ export default [
             }, {
                 name: "Women in tech",
                 hero: "/work/womenInTech.png",
-                description: "Web para informar sobre la situación de la mujer en la tecnología.",
-                description: "Bebidas energéticas con sabor orgánico, cafeína natural y sin conservantes.",
+                description: "Web to inform about the situation of women in technology.",
                 logo: "/work/machu-picchu-logo.png",
                 introductionHeaderImage: "/work/machu-picchu-intro-image-header.jpg",
                 introduction: "Machu Picchu was born from former AmBev CEO Bernardo Paiva’s passion for spreading the joys of living outdoors to the fullest. That meant creating a product committed to sustainability, organic ingredients and giving back to the community. Our challenge was to build a lovebrand, far away from the typical brand codes of the category: masculinity, aggression, partying, etc All these stereotypes have been there for 20-30 years. Meanwhile, society’s values and social priorities have thankfully evolved. We are partnering with the passionate Machu Picchu team to build the brand strategy, brand design, packaging and digital ecosystem. A brand all about feeling good and doing good.",
@@ -89,7 +86,7 @@ export default [
                 id: "food-for-joe",
                 name: "Food for Joe",
                 hero: "/work/foodForJoe.png",
-                description: "Dieta personalizada para tu mascota, cocinada al vacío, 100% natural, y entregada cada mes en tu casa." ,
+                description: "Personalized diet for your pet, vacuum-cooked, 100% natural, and delivered to your home every month." ,
                 logo: "/work/food-for-joe-logo.png",
                 introductionHeaderImage: "/work/food-for-joe-intro-image-header.png",
                 introduction: "Food for Joe has developed healthy and delicious recipes that help our pets live longer and better. They have developed their algorithm and recipes hand in hand with their nutritionists and veterinarians, always complying with the recommendations of the FEDIAF. They like to serve their clients in a personalized, decisive way and with total empathy. They use clean ingredient lists and prepare the recipes with cooking that preserves all the nutrients. No fillers, no artificial colors or additives.",
@@ -117,7 +114,7 @@ export default [
                 id: "machu-picchu",
                 name: "Machu Picchu",
                 hero: "/work/machuPicchu.png",
-                description: "Bebidas energéticas con sabor orgánico, cafeína natural y sin conservantes.",
+                description: "Energy drinks with organic flavor, natural caffeine and no preservatives.",
                 logo: "/work/machu-picchu-logo.png",
                 introductionHeaderImage: "/work/machu-picchu-intro-image-header.jpg",
                 introduction: "Machu Picchu was born from former AmBev CEO Bernardo Paiva’s passion for spreading the joys of living outdoors to the fullest. That meant creating a product committed to sustainability, organic ingredients and giving back to the community. Our challenge was to build a lovebrand, far away from the typical brand codes of the category: masculinity, aggression, partying, etc All these stereotypes have been there for 20-30 years. Meanwhile, society’s values and social priorities have thankfully evolved. We are partnering with the passionate Machu Picchu team to build the brand strategy, brand design, packaging and digital ecosystem. A brand all about feeling good and doing good.",
@@ -145,7 +142,7 @@ export default [
                 id: "qara",
                 name: "Qara",
                 hero: "/work/qara.png",
-                description: "Productos de bienestar que te ayudarán a existir en equilibrio contigo mismo, tu comunidad y la Madre Tierra.",
+                description: "Wellness products that will help you exist in balance with yourself, your community and Mother Earth.",
                 logo: "/work/qara-logo.png",
                 introductionHeaderImage: "/work/qara-intro-image-header.png",
                 introduction: "Amazonian shamans believe that true healing happens when you connect with nature. They know plants have the power to nurture wellbeing. So do they. Using ancient botanicals from the Amazon and science, they create wellness products that will help you exist in balance with yourself, your community and Mother Earth.",
@@ -170,7 +167,7 @@ export default [
                 id: "karibou",
                 name: "Karibou",
                 hero: "/work/karibou.png",
-                description: "Rediseño de los productos de packaging sostenible y diseño digital, utilizando solamente energía de fuentes renovables.",
+                description: "Redesign of sustainable packaging products and digital design, using only energy from renewable sources.",
                 logo: "/work/karibou-logo.png",
                 introductionHeaderImage: "/work/karibou-intro-image-header.png",
                 introduction: "They are here to make things change, to call out the problems and offer solutions. They want to reduce waste, be transparent, set an example and give back. No more excuses, it's time for action. Sustainability is deeply rooted at yheir core. It is part of their DNA. When they found out about the real damage of plastics and all the alarming data collected by experts who have been trying to warn us, they felt that it was their duty to do something about it. That's why they are here now to change the rules of the game and push for a true green revolution.",
@@ -198,7 +195,7 @@ export default [
                 id: "mSchools",
                 name: "mSchools",
                 hero: "/work/mschools.png",
-                description: "Comunidad global de docentes, investigadores y legisladores comprometidos con impulsar el cambio en la educación.",
+                description: "Global community of teachers, researchers and policy makers committed to driving change in education.",
                 logo: "/work/mschools-logo.png",
                 introductionHeaderImage: "/work/mschools-intro-image-header.png",
                 introduction: "mSchools is a global community of teachers, researchers and policy-makers committed to driving change in education through leveraging technology in learning. Built on innovation, collaboration and open communication, mSchools exists to support educators everywhere in using technology to make transformation a reality in their classrooms, hence enabling their students to become active and responsible digital citizens with the necessary skills to navigate today and tomorrow’s world.",
@@ -227,6 +224,27 @@ export default [
     },
     {
         "id": "birdie",
-        "name": "Birdie"
+        "name": "Birdie",
+        "projects": [
+            {
+                id: "birdie",
+                name: "book a birdie",
+                hero: "/work/birdie.png",
+                description: "Dallas-based beauty company offering in-home beauty services." ,
+                logo: "/work/birdie-logo.png",
+                introductionHeaderImage: "/work/birdie-image-header.png",
+                introduction: "Birdie was founded in 2017 when Elizabeth had just had her first baby and was trying to get back into the work force from maternity leave. She quickly realized there was a huge gap in the beauty services market for meeting women where they are. When she approached her sister, Gabrielle, with the idea of doing something about it, they knew they were about to begin something magical and Birdie was born. Birdie has an elite team of highly trained and thoroughly vetted professionals. Our pros are the best of the best and have provided beauty treatments for New York Fashion Week, Vogue, Real Housewives, Good Morning Texas, Bravo, Brides and D Magazine.",
+                images: [
+                    "/work/birdie-image-1.png",
+                    "/work/birdie-image-2.png",
+                    "/work/birdie-image-3.png",
+                ],
+                ui: "Typography, colors, icons, ilustrations...",
+                uiImage: "/work/birdie-ui-image.jpg",
+                proto: "Final design with the changes obtained from the usability tests of the wireframes. In this part, we have also carried out usability tests and finally we have made the final prototype. You can see the prototype to click on the image (customer and professionals app).",
+                protoImage: "/work/birdie-prototype.png",
+                protoURL: "https://www.figma.com/file/6rMeRUQgtwNUPXdVIC8XdR/Customer-App-%26-Stylist-App?node-id=0%3A1&t=u9vzF9QP8fX0LY7B-1"
+            }, 
+        ]
     }
 ]
