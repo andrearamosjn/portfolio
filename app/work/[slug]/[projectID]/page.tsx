@@ -29,7 +29,7 @@ export default function Project({ params }: Props) {
                 <h1 className="text-center uppercase font-medium text-black opacity-70 text-base">Introduction</h1>
                 <desc className="mt-4 px-24 inline-block text-center leading-7 font-normal text-3xl">{project.introduction}</desc>
                 <div className="grid grid-cols-2 gap-5 mt-16 sm:mx-auto">
-                    {project.images?.map(im => <img className="col-span-1 [&:nth-child(3)]:col-span-2 w-fill" src={im} />)}
+                    {project.images?.map((im: string) => <img className="col-span-1 [&:nth-child(3)]:col-span-2 w-fill" src={im} />)}
                 </div>
             </div>
             <div className="px-16 py-20 odd:bg-[#e5e5e5] even:bg-[#ffffff]">
