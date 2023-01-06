@@ -13,14 +13,25 @@ export default [
                 introduction: "Hidden gems is an application for those who love to travel and discover new places. I conducted 179 surveys and 8 interviews. From the surveys we obtained the following results:\n1. 56.5% try to find new places through the Internet.\n2. 32.5% ask friends or acquaintances.\n3. 5.65% ask strangers.\n4. 5.35% do so through an application.\nAbout the interviews, people talked to me a lot about trip planning.",
                 affinityDiagram: "I used the affinity diagram to organize and group ideas and comments into similar categories. I divided it into 6 different groups.",
                 affinityDiagramImage: "/work/hidden-gems-affinity-diagram.png",
-                problems: "1. They lose a lot of time in trip planning. 2. Difficulty in finding new or less touristy places.",
+                problems: [
+                    "They lose a lot of time in trip planning.",
+                    "Difficulty in finding new or less touristy places."
+                ],
                 empathyMap: "Next, I used the empathy map to help me understand and put myself in the place of my users. The empathy map is divided into four sections: Think, Feel, Do and Say. Each section includes key questions or phrases that help me identify the needs, motivations, expectations, and behaviors of my users.",
                 empathyMapImage: "/work/hidden-gems-empathy-map.png",
                 userFlows: "Based on information collected through interviews and surveys, I made the user flow. User flows are a graphical representation of the actions taken by users when interacting with a product or service. I used it to understand how users navigate through an application or website and to identify points of friction or improvements in the user experience.",
-                userFlowsImage: "/work/hidden-gems-user-flows.png",
+                userFlowsImages: [
+                    "/work/hidden-gems-user-flows.png"
+                ],
                 siteMap: "We use the sitemap to identify a map of the various pages of the website. A site map is a diagram that shows the structure of a website and how the different pages are related to each other. The site map is often used to plan the information architecture of a website and to facilitate user navigation.",
                 siteMapImage: "/work/hidden-gems-site-map.png",
-                solutions: "5 solutions: 1. Routes based on date, budget, and preferences. 2. Recommended routes. 3. Routes based on your location. 4. Offer both well-known tourist sites and lesser-known sites. 5. Chat option.",
+                solutions: [
+                    "Routes based on date, budget, and preferences.",
+                    "Recommended routes.",
+                    "Routes based on your location.",
+                    "Offer both well-known tourist sites and lesser-known sites.",
+                    "Chat option."
+                ],
                 userPersona: "Pau is 28 years old and lives in Valencia.",
                 userPersonaImage: "/work/hidden-gems-user-persona.png",
                 userPersonaQuote: "First, I prefer to see the most touristy places and then I love to find places that surprise me and if possible, have contact with the people from that place.",

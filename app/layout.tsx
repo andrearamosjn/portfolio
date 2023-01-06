@@ -19,7 +19,7 @@ export default function BaseLayout({ children }: PropsWithChildren) {
         <link rel="icon" href="/favicon.ico" />
       </head>
       <body className="w-screen h-screen bg-[#f6f7f0]">
-        <div className="flex flex-row bg-[#f6f7f0] w-screen z-10">
+        <div className="flex flex-row bg-[#f6f7f0] w-screen z-10 fixed">
           <a href="/" className="p-5 pl-20 max-sm:pl-10 font-[Heebo] text-3xl">ARJ</a>
           <nav className="flex-1 flex pr-20 max-sm:pr-10 max-sm:flex-row-reverse">
             <a href="#menu" className="space-y-2 p-5 pr-0 sm:hidden max-sm:block">
