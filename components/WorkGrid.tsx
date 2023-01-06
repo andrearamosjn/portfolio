@@ -57,6 +57,10 @@ export default function WorkGrid({id}: Props) {
                     ))
                 }
             </main>
+            <div className="fixed bottom-0 left-0 w-screen bg-accent flex flex-row">
+                <a className="flex-1 text-2xl py-4 font-thin font-[Heebo] underline underline-offset-2 text-center" href="mailto:andrearamosjn@gmail.com" target="_blank">Email Me</a>
+                <a className="flex-1 text-2xl py-4 font-thin font-[Heebo] underline underline-offset-2 text-center" href="https://www.linkedin.com/in/andrearmsjn" target="_blank">LinkedIn</a>
+            </div>
         </div>
     )
 }

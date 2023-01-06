@@ -1,3 +1,5 @@
+"use client";
+import { usePathname } from 'next/navigation';
 import { PropsWithChildren } from "react";
 import './globals.css';
 
@@ -7,6 +9,7 @@ const links = [
 ]
 
 export default function BaseLayout({ children }: PropsWithChildren) {
+  const pathName = usePathname();
   return (
     <html>
       <head>
@@ -26,7 +29,9 @@ export default function BaseLayout({ children }: PropsWithChildren) {
             </a>
             <ul className="flex flex-1 flex-row-reverse gap-5 max-sm:hidden target:visible">
               {links.map(({ link, label }) => (
-                <li className="p-5 font-[Heebo] text-2xl font-thin uppercase hover:font-light active:font-normal focus:font-normal transition-all">
+                <li 
+                  className={`p-5 font-[Heebo] text-2xl font-thin uppercase hover:font-light active:font-normal focus:font-normal transition-all ${pathName?.startsWith(link) ? 'font-light' : ''}`}
+                >
                   <a href={link}>
                     {label}
                   </a>
