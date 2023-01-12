@@ -40,7 +40,7 @@ export default function WorkGrid({id}: Props) {
                     ))}
                 </ul>
             </nav>
-            <main className="grid mt-10 grid-cols-3 max-md:grid-cols-2 max-sm:grid-cols-1 gap-5">
+            <main className="mt-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 gap-5 justify-center">
                 {
                     //@ts-ignore
                     projects.map((p) => (

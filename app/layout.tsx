@@ -18,8 +18,8 @@ export default function BaseLayout({ children }: PropsWithChildren) {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </head>
-      <body className="w-screen h-screen bg-[#f6f7f0]">
-        <div className="flex flex-row bg-[#f6f7f0] w-screen z-10 fixed">
+      <body className="w-screen h-screen bg-[#f6f7f0] pt-20">
+        <div className="flex flex-row bg-[#f6f7f0] w-screen z-10 fixed top-0">
           <a href="/" className="p-5 pl-20 max-sm:pl-10 font-[Heebo] text-3xl">ARJ</a>
           <nav className="flex-1 flex pr-20 max-sm:pr-10 max-sm:flex-row-reverse">
             <a href="#menu" className="space-y-2 p-5 pr-0 sm:hidden max-sm:block">
@@ -29,13 +29,15 @@ export default function BaseLayout({ children }: PropsWithChildren) {
             </a>
             <ul className="flex flex-1 flex-row-reverse gap-5 max-sm:hidden target:visible">
               {links.map(({ link, label }) => (
-                <li 
+                <li
+                  key={link}
                   className={`p-5 font-[Heebo] text-2xl font-thin uppercase hover:font-light active:font-normal focus:font-normal transition-all ${pathName?.startsWith(link) ? 'font-light' : ''}`}
                 >
                   <a href={link}>
                     {label}
                   </a>
-                </li>
+                </li
+>
               ))}
             </ul>
           </nav>
@@ -49,12 +51,14 @@ export default function BaseLayout({ children }: PropsWithChildren) {
           <ul className="flex flex-1 flex-col content-center justify-center gap-5">
               {links.map(({ link, label }) => (
                 <li
+                  key={link}
                   className="p-5 font-[Heebo] text-5xl font-thin uppercase hover:font-light active:font-normal focus:font-normal transition-all text-center"
                 >
                   <a href={link}>
                     {label}
                   </a>
-                </li>
+                </li
+>
               ))}
             </ul>
         </div>
