@@ -22,7 +22,7 @@ export default function Me() {
         <span className="text-2xl">¿Trabajamos juntos?</span>
       </div>
 
-      <div className="px-20 max-sm:px-5 flex-col mb-4 grid grid-cols-2 max-sm:grid-cols-1 max-sm:flex-wrap gap-5 mt-16 sm:mx-auto">
+      <div className="px-20 max-sm:px-5 pb-20 flex-col mb-4 grid grid-cols-2 max-sm:grid-cols-1 max-sm:flex-wrap gap-5 mt-16 sm:mx-auto">
         <img className="col-span-1:col-span-2 w-fill" src={"/me/IMG1.jpg"} />
         <img className="col-span-1:col-span-2 w-fill" src={"/me/IMG2.jpg"} />
       </div>
