@@ -1,0 +1,24 @@
+<svg width="182" height="208" viewBox="0 0 182 208" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_1507_140" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="182" height="208">
+<rect width="182" height="208" fill="#2A2A2A"/>
+</mask>
+<g mask="url(#mask0_1507_140)">
+<rect width="182" height="208" fill="#E7E7E7"/>
+<rect x="72" y="-1" width="110" height="10" fill="#F2390A"/>
+<rect x="72" y="19" width="110" height="10" fill="#F2390A"/>
+<rect y="9" width="72" height="20" fill="#F2390A"/>
+<rect y="49" width="72" height="20" fill="#F2390A"/>
+<rect y="89" width="72" height="20" fill="#F2390A"/>
+<rect y="129" width="72" height="20" fill="#F2390A"/>
+<rect y="169" width="72" height="20" fill="#F2390A"/>
+<rect x="72" y="39" width="110" height="10" fill="#F2390A"/>
+<rect x="72" y="59" width="110" height="10" fill="#F2390A"/>
+<rect x="72" y="79" width="110" height="10" fill="#F2390A"/>
+<rect x="72" y="99" width="110" height="10" fill="#F2390A"/>
+<rect x="72" y="119" width="110" height="10" fill="#F2390A"/>
+<rect x="72" y="139" width="110" height="10" fill="#F2390A"/>
+<rect x="72" y="159" width="110" height="10" fill="#F2390A"/>
+<rect x="72" y="179" width="110" height="10" fill="#F2390A"/>
+<rect x="72" y="199" width="110" height="10" fill="#F2390A"/>
+</g>
+</svg>
